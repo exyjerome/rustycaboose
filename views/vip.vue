@@ -14,6 +14,7 @@
                 <p>Donations go directly back into funding the server, we currently host on a Intel Xeon E3-1270v6 - 32GB DDR4 ECC 2400 MHz with two nvme drives to ensure performance from the start. This currently sets me back £78.28 a month including taxes.</p>
                 <p>Hosting the site costs roughly £5.85 a month, which brings us to £84.10 as the donation goal, any amount above this will stay in the pot for the next month</p>
                 <p>Any perks/benefits of donating will be delivered instantly and can be redeemed in-game</p>
+                <p><i class="fas fa-info-circle text-info"></i> When you make a purchase of digital content on RUSTY Caboose you agree that the digital content will be available to you immediately, and you acknowledge that as a result you waive your automatic statutory right of withdrawal and as such no refunds will be given.</p>
                 <hr>
             </div>
         </div>
