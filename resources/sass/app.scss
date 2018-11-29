@@ -1,0 +1,26 @@
+@import '~bootstrap/scss/bootstrap';
+@import 'mixins';
+@import 'logo';
+@import 'buttons';
+@import 'list-group';
+@import 'progress';
+
+html,body {
+    background: #f5f5f5;
+    font-family: 'Francois One', sans-serif;
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+
