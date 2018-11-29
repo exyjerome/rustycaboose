@@ -1,3 +1,15 @@
+@keyframes animateInOut {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
 .logo-container {
     width: auto;
     height: 100%;
@@ -9,6 +21,9 @@
     color: white;
     @include gradient-animation(216deg, #FAA000, #FF4B01, 0.5s);
     margin-bottom: 1em;
+    &:before {
+        animation: animateInOut 800ms infinite;
+    }
 }
 .logo-container__inner {
     width: 175px;
