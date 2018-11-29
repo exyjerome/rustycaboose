@@ -5,7 +5,7 @@
                 <i class="fab fa-steam"></i> <span>{{ text }} {{ api.players }}/{{ api.maxplayers }}</span>
             </a>
         </div>
-        <div class="col-auto" v-if="api.players == 0">
+        <div class="col-auto">
             <router-link to="/vip" class="button-outline button-outline--gold">
                 <i class="fas fa-star"></i> Skip the queue
             </router-link>
