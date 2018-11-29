@@ -22,7 +22,7 @@
     @include gradient-animation(216deg, #FAA000, #FF4B01, 0.5s);
     margin-bottom: 1em;
     &:before {
-        animation: animateInOut 800ms infinite;
+        animation: animateInOut 1s infinite;
     }
 }
 .logo-container__inner {
